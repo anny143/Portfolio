@@ -21,5 +21,5 @@ function TodoG() {
   window.open("https://github.com/anny143/todo-list", "_blank");
 }
 function TodoL() {
-  window.open("https://todo-list-roan-phi.vercel.app/", "_blank");
+  window.open("https://to-do-list-nine-puce.vercel.app/", "_blank");
 }
