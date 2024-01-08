@@ -18,7 +18,7 @@ function MovixL() {
   window.open("https://movix-omega-one.vercel.app/", "_blank");
 }
 function TodoG() {
-  window.open("https://github.com/anny143/todo-list", "_blank");
+  window.open("https://github.com/anny143/To-Do-List", "_blank");
 }
 function TodoL() {
   window.open("https://to-do-list-nine-puce.vercel.app/", "_blank");
